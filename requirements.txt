@@ -3,7 +3,7 @@ Cython==0.22
 Keras==0.3.0
 Landscape-Client==14.01
 PAM==0.4.2
-PyYAML==3.10
+PyYAML==5.4
 Pyste==0.9.10
 Theano==0.7.0
 Twisted-Core==13.2.0
